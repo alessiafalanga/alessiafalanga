@@ -1,8 +1,7 @@
-Ciao Mondo
-come va? 
+HI! I'm Alessia
 
-tentativo 1
-
-tentativo 2
-
-tentativo 3
+🏳️‍🌈 She/Her
+👩‍💻 Frontend Developer (HTML, CSS, Javascript, React)
+🎨 UI & Graphic Designer
+🦄 Digital illustration with Procreate
+🎥 Content Creator
